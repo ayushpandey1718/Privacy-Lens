@@ -1,0 +1,28 @@
+# Node
+node_modules/
+.next/
+out/
+dist/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+!.env.local.example
+
+# System
+.DS_Store
+
+# Logs
+*.log
+
+# Uploaded files
+uploads/
+*.apk
